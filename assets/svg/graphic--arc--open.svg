@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1025px" height="154px" viewBox="0 0 1025 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14">
+            <path d="M512.5,16 C334.665,16 162.711,41.174 0,88.141 L0,108.97 C162.587,61.476 334.568,36 512.5,36 C690.432,36 862.413,61.476 1025,108.97 L1025,88.141 C862.289,41.174 690.335,16 512.5,16" id="Fill-1" fill="#FFFBDB"></path>
+            <path d="M0,108.9702 L0,140.2492 C162.393,91.9402 334.417,66.0002 512.5,66.0002 C690.583,66.0002 862.607,91.9402 1025,140.2492 L1025,108.9702 C862.413,61.4762 690.432,36.0002 512.5,36.0002 C334.568,36.0002 162.587,61.4762 0,108.9702" id="Fill-3" fill="#FFFDF0"></path>
+            <path d="M0,154 L1025,154 L1025,140.249 C862.607,91.94 690.583,66 512.5,66 C334.417,66 162.393,91.94 0,140.249 L0,154 Z" id="Fill-5" fill="#FFFFFF"></path>
+            <path d="M0,0 L0,88.141 C162.711,41.174 334.665,16 512.5,16 C690.335,16 862.289,41.174 1025,88.141 L1025,0 L0,0 Z" id="Fill-1" fill="#FFF9C4"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1025px" height="141px" viewBox="0 0 1025 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15">
+            <path d="M512.5,31 C334.665,31 162.711,56.174 0,103.141 L0,123.97 C162.587,76.476 334.568,51 512.5,51 C690.432,51 862.413,76.476 1025,123.97 L1025,103.141 C862.289,56.174 690.335,31 512.5,31" id="Fill-1" fill="#FFFBDB" transform="translate(512.500000, 77.485000) scale(1, -1) translate(-512.500000, -77.485000) "></path>
+            <path d="M0,72.97 L0,104.249 C162.393,55.94 334.417,30 512.5,30 C690.583,30 862.607,55.94 1025,104.249 L1025,72.97 C862.413,25.476 690.432,0 512.5,0 C334.568,0 162.587,25.476 0,72.97" id="Fill-3" fill="#FFFDF0" transform="translate(512.500000, 52.124500) scale(1, -1) translate(-512.500000, -52.124500) "></path>
+            <path d="M0,52 L0,140.141 C162.711,93.174 334.665,68 512.5,68 C690.335,68 862.289,93.174 1025,140.141 L1025,52 L0,52 Z" id="Fill-1" fill="#FFF9C4" transform="translate(512.500000, 96.070500) scale(1, -1) translate(-512.500000, -96.070500) "></path>
+            <rect id="Rectangle-21" fill="#FFF9C4" x="0" y="139" width="1025" height="2"></rect>
+        </g>
+    </g>
+</svg>
